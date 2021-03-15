@@ -1,5 +1,5 @@
 from gamemap import GameMap
-
+import requests
 
 class MapRenderer:
     def __init__(self, gamemapper):
