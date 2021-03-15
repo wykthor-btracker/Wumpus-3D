@@ -27,13 +27,21 @@ No caso de fim do jogo, a conexão é finalizada e o cliente deverá conectar-se
 Conexão final: Requisitar o fim da conexão.
 
 Ex. de Formato:
+
 cliente:
+
 INIC
+
 nome: wykthor
+
 mapa: [[0,0,j,0],[0,0,0,0],[0,0,0,0],[0,m,0,0]]
 
+
 servidor:
+
 INIC
+
 id: 02
+
 
 fim de ex.
