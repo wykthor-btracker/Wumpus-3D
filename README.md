@@ -1,7 +1,7 @@
 # Trabalho de CG, IA, Comp Evo, Redes
 ## _Participantes: Arquimedes, Wykthor, Audrey, Bruno_
 Combinações: 
-- Bruno/Wykthor (Redes) 
+- Wykthor/Bruno (Redes) 
 - Wykthor/Bruno/Audrey/Arquimedes (Comp Evo)
 - Wykthor/Arquimedes(CG)
 - Wykthor/? (IA)
