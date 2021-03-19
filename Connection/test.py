@@ -1,4 +1,4 @@
-
+#!usr/bin/env python3
 import numpy as np
 
 
@@ -19,7 +19,7 @@ main()
 
 
 """
-PROX
+request: PROX
 ID: x235
 jogada: (2,1)
 
