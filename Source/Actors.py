@@ -10,6 +10,7 @@ def vectorOp(vecA, vecB, op):
 
 class Actor:
     def __init__(self):
+        self.symbol = None
         self.pos = [None, None]
         self.health = None
         self.score = None
@@ -38,6 +39,9 @@ class Actor:
         return self.health == 0
 
     def getScore(self):
+        raise NotImplementedError("Function call on a abstract method.")
+
+    def getNearbyActors(self):
         raise NotImplementedError("Function call on a abstract method.")
 
 def main():
