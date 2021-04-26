@@ -7,6 +7,7 @@ Combinações:
 - Wykthor/? (IA)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+Inteligência Artificial: Usar uma rede neural profunda hiperparametrizada por um algoritmo genético para fazer a previsão de recompensa possível, dada uma ação, seguindo o algoritmo de Q-learning.
 
 Protocolo de rede:
 
